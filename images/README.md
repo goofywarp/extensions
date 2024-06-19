@@ -6,10 +6,10 @@ All images in this folder are licensed under the [GNU General Public License ver
  - Created by [@0znzw](https://scratch.mit.edu/users/0znzw)
 
 ## Xeltalliv/simple3D.webp
- - Created by [@GamingWithDominic][https://scratch.mit.edu/users/GamingWithDominic/]
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
 
 ## mbw/xml.webp
- - Created by [@GamingWithDominic][https://scratch.mit.edu/users/GamingWithDominic/]
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
 
 ## godslayerakp/http.svg
  - Created by [@0znzw](https://scratch.mit.edu/users/0znzw)
@@ -18,7 +18,7 @@ All images in this folder are licensed under the [GNU General Public License ver
  - Created by [@0znzw](https://scratch.mit.edu/users/0znzw)
 
 ## TheShovel/ShovelUtils.png
- - Created by [@GamingWithDominic][https://scratch.mit.edu/users/GamingWithDominic/]
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
 
 ## stretch.png
  - Created by [@0znzw](https://scratch.mit.edu/users/0znzw)
@@ -67,6 +67,7 @@ All images in this folder are licensed under the [GNU General Public License ver
 
 ## sound.svg
  - Created by [@Bitter_160](https://scratch.mit.edu/users/Bitter_160)
+ - And also [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
 
 ## true-fantom/base.png
  - Created by [@0znzw](https://scratch.mit.edu/users/0znzw)
@@ -85,3 +86,18 @@ All images in this folder are licensed under the [GNU General Public License ver
 
 ## utilities.svg
  - Created by [@Bitter_160](https://scratch.mit.edu/users/Bitter_160)
+
+## penplus.png
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+
+## obviousAlexC/penPlus.png
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+
+## shreder95ua/resolution.svg
+ - Created by [@-SavaUA-](https://scratch.mit.edu/users/-SavaUA-/)
+
+## Lily/ClonesPlus.webp
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+
+## Lily/lmsutils.png
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
