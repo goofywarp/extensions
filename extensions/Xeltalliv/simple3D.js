@@ -1,4 +1,4 @@
-// Name: Simple 3D
+// Name: Not so Simple 3D
 // ID: xeltallivSimple3D
 // Description: Make GPU accelerated 3D projects easily.
 // By: Vadik1 <https://scratch.mit.edu/users/Vadik1/>
