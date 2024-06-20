@@ -7,8 +7,9 @@ All images in this folder are licensed under the [GNU General Public License ver
 ## fetch.png
  - Created by [@0znzw](https://scratch.mit.edu/users/0znzw)
 
-## Xeltalliv/simple3D.webp
+## Xeltalliv/simple3D.png
  - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+ - and [@Vadik1](https://scratch.mit.edu/users/Vadik1/)
 
 ## mbw/xml.webp
  - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
@@ -37,8 +38,8 @@ All images in this folder are licensed under the [GNU General Public License ver
 ## Skyhigh173/bigint.png
  - Created by [@0znzw](https://scratch.mit.edu/users/0znzw)
 
-## Lily/Video.svg
- - Created by [@Bitter_160](https://scratch.mit.edu/users/Bitter_160)
+## Lily/Video.png
+ - Created by [@Vadik1](https://scratch.mit.edu/users/Vadik1/)
 
 ## text.png
  - Created by [@0znzw](https://scratch.mit.edu/users/0znzw)
@@ -82,6 +83,7 @@ All images in this folder are licensed under the [GNU General Public License ver
 
 ## Xeltalliv/clippingblending.png
  - Created by [@0znzw](https://scratch.mit.edu/users/0znzw)
+ - and [@Vadik1](https://scratch.mit.edu/users/Vadik1/)
 
 ## Lily/mcutils.png
  - Created by [@0znzw](https://scratch.mit.edu/users/0znzw)
@@ -94,7 +96,6 @@ All images in this folder are licensed under the [GNU General Public License ver
 
 ## obviousAlexC/penPlus.png
  - Created By [@pinksheep2917](https://scratch.mit.edu/users/pinksheep2917/)
- - Og Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
 
 ## shreder95ua/resolution.svg
  - Created by [@-SavaUA-](https://scratch.mit.edu/users/-SavaUA-/)
@@ -117,8 +118,8 @@ All images in this folder are licensed under the [GNU General Public License ver
 ## CubesterYT/WindowControls.jpg
  - Created by [@CubesterYT](https://scratch.mit.edu/users/CubesterYT/)
 
-## CubesterYT/KeySimulation.jpg
- - Created by [@CubesterYT](https://scratch.mit.edu/users/CubesterYT/)
+## CubesterYT/KeySimulation.png
+ - Created by [@Vadik1](https://scratch.mit.edu/users/Vadik1/)
 
 ## CubesterYT/TurboHook.jpg
  - Created by [@CubesterYT](https://scratch.mit.edu/users/CubesterYT/)
@@ -132,3 +133,25 @@ All images in this folder are licensed under the [GNU General Public License ver
 
 ## obviousAlexC/newgroundsIO.png
  - Created by [@LucasXD5](https://scratch.mit.edu/users/LucasXD5/)
+
+## Lily/MoreTimers.png
+ - Created by [@Vadik1](https://scratch.mit.edu/users/Vadik1/)
+
+## Lily/TempVariables2.png
+ - Created by [@Vadik1](https://scratch.mit.edu/users/Vadik1/)
+
+## PwLDev/vibration.png
+ - Created by [@Vadik1](https://scratch.mit.edu/users/Vadik1/)
+
+## Alestore/nfcwarp.png
+ - Created by [@BludIsAnLemon](https://scratch.mit.edu/users/BludIsAnLemon/)
+
+## numerical-encoding-2.svg
+ - Created by [@Bitter_160](https://scratch.mit.edu/users/Bitter_160)
+
+## clipboard.svg
+ - Created by [@-SavaUA-](https://scratch.mit.edu/users/-SavaUA-/)
+ - Clipboard from https://pngtree.com/freepng/realistic-clipboard-with-paper-vector-mock-up-for-your-design-a4-size-isolated-on-white-background-illustration_5204292.html
+
+## DT/cameracontrols.png
+ - Created by [@BludIsAnLemon](https://scratch.mit.edu/users/BludIsAnLemon/)
