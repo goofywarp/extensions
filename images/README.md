@@ -2,6 +2,8 @@
 
 All images in this folder are licensed under the [GNU General Public License version 3](../licenses/GPL-3.0.txt). Please see the below list for additional attribution information.
 
+**Fun fact all of these are in order based on when they were made and sent to me!**
+
 ## fetch.png
  - Created by [@0znzw](https://scratch.mit.edu/users/0znzw)
 
@@ -101,6 +103,15 @@ All images in this folder are licensed under the [GNU General Public License ver
  - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
 
 ## Lily/lmsutils.png
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+
+## true-fantom/math.png
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+
+## true-fantom/math.png
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+
+## veggiecan/browserfullscreen.png
  - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
 
 ## CubesterYT/WindowControls.jpg
