@@ -91,7 +91,8 @@ All images in this folder are licensed under the [GNU General Public License ver
  - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
 
 ## obviousAlexC/penPlus.png
- - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+ - Created By [@pinksheep2917](https://scratch.mit.edu/users/pinksheep2917/)
+ - Og Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
 
 ## shreder95ua/resolution.svg
  - Created by [@-SavaUA-](https://scratch.mit.edu/users/-SavaUA-/)
@@ -101,3 +102,22 @@ All images in this folder are licensed under the [GNU General Public License ver
 
 ## Lily/lmsutils.png
  - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+
+## CubesterYT/WindowControls.jpg
+ - Created by [@CubesterYT](https://scratch.mit.edu/users/CubesterYT/)
+
+## CubesterYT/KeySimulation.jpg
+ - Created by [@CubesterYT](https://scratch.mit.edu/users/CubesterYT/)
+
+## CubesterYT/TurboHook.jpg
+ - Created by [@CubesterYT](https://scratch.mit.edu/users/CubesterYT/)
+
+## true-fantom/couplers.png
+ - Created by [@LucasXD5](https://scratch.mit.edu/users/LucasXD5/)
+ - Steel Couplers image from [SteelAsia](https://www.steelasia.com/mechanical-couplers)
+
+## Lily/LooksPlus.png
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+
+## obviousAlexC/newgroundsIO.png
+ - Created by [@LucasXD5](https://scratch.mit.edu/users/LucasXD5/)
