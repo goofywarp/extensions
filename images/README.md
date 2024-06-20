@@ -165,6 +165,9 @@ All images in this folder are licensed under the [GNU General Public License ver
 ## Lily/Assets.png
  - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
 
+## obviousAlexC/SensingPlus.png
+ - Created by [@BludIsAnLemon](https://scratch.mit.edu/users/BludIsAnLemon/)
+
 ## veggiecan/mobilekeyboard.svg
  - Created by [@Bitter_160](https://scratch.mit.edu/users/Bitter_160)
  - Keyboard: https://pngimg.com/image/5866
