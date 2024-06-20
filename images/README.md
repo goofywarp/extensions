@@ -158,3 +158,38 @@ All images in this folder are licensed under the [GNU General Public License ver
 
 ## battery.png
  - Created by [@Vadik1](https://scratch.mit.edu/users/Vadik1/)
+
+## veggiecan/LongmanDictionary.svg
+ - Created by [@WojtekGame](https://scratch.mit.edu/users/WojtekGame/)
+
+## Lily/Assets.png
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+
+## veggiecan/mobilekeyboard.svg
+ - Created by [@Bitter_160](https://scratch.mit.edu/users/Bitter_160)
+ - Keyboard: https://pngimg.com/image/5866
+ - Phone: https://purepng.com/photo/871/objects-mobile-phone-with-touch
+
+## cloudlink.png
+ - Created by [@WojtekGame](https://scratch.mit.edu/users/WojtekGame/)
+
+## NexusKitten/moremotion.png
+ - Created by [@BludIsAnLemon](https://scratch.mit.edu/users/BludIsAnLemon/)
+
+## Lily/ListTools.png
+ - Created by [@BludIsAnLemon](https://scratch.mit.edu/users/BludIsAnLemon/)
+
+## TheShovel/LZ-String.png
+ - Created by [@WojtekGame](https://scratch.mit.edu/users/WojtekGame/)
+
+## qxsck/data-analysis.png
+ - Created by [@WojtekGame](https://scratch.mit.edu/users/WojtekGame/)
+
+## -SIPC-/consoles.png
+ - Created by [@WojtekGame](https://scratch.mit.edu/users/WojtekGame/)
+
+## NexusKitten/sgrab.svg
+ - Created by [@-SavaUA-](https://scratch.mit.edu/users/-SavaUA-/)
+
+## clouddata-ping.png
+ - Create and performed by [@0znzw](https://scratch.mit.edu/users/0znzw) and [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)]
