@@ -1,12 +1,6 @@
 # TurboWarp Extension Gallery
 
-User-contributed unsandboxed extension gallery for TurboWarp.
-
-https://extensions.turbowarp.org/
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+Hey this is just a funny clone of the TurboWarp gallery, Dont contribute new extensions to here only images, And if possible send them on discord instead! [TurboWarp server](https://dsc.gg/TurboWarp) [Thread](https://discord.com/channels/837024174865776680/1253138440468299848)
 
 ## License
 
