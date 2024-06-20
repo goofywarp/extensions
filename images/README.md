@@ -155,3 +155,6 @@ All images in this folder are licensed under the [GNU General Public License ver
 
 ## DT/cameracontrols.png
  - Created by [@BludIsAnLemon](https://scratch.mit.edu/users/BludIsAnLemon/)
+
+## battery.png
+ - Created by [@Vadik1](https://scratch.mit.edu/users/Vadik1/)
