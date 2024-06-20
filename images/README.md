@@ -195,4 +195,7 @@ All images in this folder are licensed under the [GNU General Public License ver
  - Created by [@-SavaUA-](https://scratch.mit.edu/users/-SavaUA-/)
 
 ## clouddata-ping.png
- - Create and performed by [@0znzw](https://scratch.mit.edu/users/0znzw) and [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)]
+ - Created and performed by [@0znzw](https://scratch.mit.edu/users/0znzw) and [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+
+## CST1229/images.png
+ - Created by [@CST1229](https://scratch.mit.edu/users/CST1229)
