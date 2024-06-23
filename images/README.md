@@ -4,6 +4,8 @@ All images in this folder are licensed under the [GNU General Public License ver
 
 **Fun fact all of these are in order based on when they were made and sent to me!**
 
+**not anymore :troll:**
+
 ## fetch.png
  - Created by [@0znzw](https://scratch.mit.edu/users/0znzw)
 
@@ -206,3 +208,7 @@ All images in this folder are licensed under the [GNU General Public License ver
 ## Skyhigh173/json.png
  - Created by
 [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+
+## color_channels.png
+ - Created by 
+[@Vadik1](https://scratch.mit.edu/users/Vadik1/)
