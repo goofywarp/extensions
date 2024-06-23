@@ -209,6 +209,6 @@ All images in this folder are licensed under the [GNU General Public License ver
  - Created by
 [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
 
-## color_channels.png
+## Longboost/color_channels.png
  - Created by 
 [@Vadik1](https://scratch.mit.edu/users/Vadik1/)
