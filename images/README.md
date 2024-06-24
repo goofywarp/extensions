@@ -213,6 +213,6 @@ All images in this folder are licensed under the [GNU General Public License ver
  - Created by 
 [@Vadik1](https://scratch.mit.edu/users/Vadik1/)
 
-## NOname-awa/regular-expression.png
+## true-fantom/regexp.png
  - Created by 
 [@WojtekGame](https://scratch.mit.edu/users/WojtekGame/)
