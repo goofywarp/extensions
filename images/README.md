@@ -206,17 +206,29 @@ All images in this folder are licensed under the [GNU General Public License ver
  - Created by [@LilyMakesThings](https://scratch.mit.edu/users/LilyMakesThings/)
 
 ## Skyhigh173/json.png
- - Created by
-[@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
 
 ## Longboost/color_channels.png
- - Created by 
-[@Vadik1](https://scratch.mit.edu/users/Vadik1/)
+  <!-- bro what kinda fucking meth did lemon take to add the image uncropped??!?! -->
+ - Created by [@Vadik1](https://scratch.mit.edu/users/Vadik1/)
 
 ## true-fantom/regexp.png
- - Created by 
-[@WojtekGame](https://scratch.mit.edu/users/WojtekGame/)
+ - Created by [@WojtekGame](https://scratch.mit.edu/users/WojtekGame/)
 
 ## Lily/Cast.png
- - Created by 
-[@LucasXD5](https://scratch.mit.edu/users/LucasXD5/)
+ - Created by [@LucasXD5](https://scratch.mit.edu/users/LucasXD5/)
+
+## true-fantom/network.webp
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+
+## Lily/HackedBlocks.webp
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+
+## NexusKitten/controlcontrols.webp
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/)
+
+## -SIPC-/time.webp
+ - Created by [@Vadik1](https://scratch.mit.edu/users/Vadik1/)
+
+## steamworks.webp
+ - Created by [@GamingWithDominic](https://scratch.mit.edu/users/GamingWithDominic/) and [@Vadik1](https://scratch.mit.edu/users/Vadik1/)
