@@ -1,6 +1,6 @@
-// Name: Color Picker
+// Name: Colour Picker
 // ID: shovelColorPicker
-// Description: Access your system's color picker.
+// Description: Access your system's colour picker.
 // By: TheShovel
 // License: MIT
 
@@ -38,7 +38,7 @@
     getInfo() {
       return {
         id: "shovelColorPicker",
-        name: Scratch.translate("Color Picker"),
+        name: Scratch.translate("Colour Picker"),
         color1: "#ff7db5",
         color2: "#e0649a",
         color3: "#c14d7f",
@@ -46,7 +46,7 @@
           {
             opcode: "showPicker",
             blockType: Scratch.BlockType.COMMAND,
-            text: Scratch.translate("show color picker"),
+            text: Scratch.translate("show colour picker"),
           },
           {
             opcode: "setPos",
@@ -66,7 +66,7 @@
           {
             opcode: "setColor",
             blockType: Scratch.BlockType.COMMAND,
-            text: Scratch.translate("set picker color to [COLOR]"),
+            text: Scratch.translate("set picker colour to [COLOR]"),
             arguments: {
               COLOR: {
                 type: Scratch.ArgumentType.COLOR,
@@ -77,7 +77,7 @@
           {
             opcode: "getColor",
             blockType: Scratch.BlockType.REPORTER,
-            text: Scratch.translate("color [TYPE] value"),
+            text: Scratch.translate("colour [TYPE] value"),
             arguments: {
               TYPE: {
                 type: Scratch.ArgumentType.STRING,
@@ -100,7 +100,7 @@
             opcode: "whenChanged",
             blockType: Scratch.BlockType.EVENT,
             isEdgeActivated: false,
-            text: Scratch.translate("when color changed"),
+            text: Scratch.translate("when colour changed"),
           },
         ],
         menus: {
